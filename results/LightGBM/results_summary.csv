@@ -1,0 +1,2 @@
+Model,Best Threshold,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Best n_estimators,Best max_depth,Best learning_rate,Best num_leaves,Best subsample,Best colsample_bytree,Best min_child_samples,Best reg_alpha,Best reg_lambda
+LightGBM,0.6623,0.9099,0.5702,0.8136,0.6705,0.9515,500,10,0.05,63,0.8,0.8,50,0.01,5.0

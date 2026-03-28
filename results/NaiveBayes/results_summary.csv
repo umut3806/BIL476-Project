@@ -1,0 +1,2 @@
+Model,Best Threshold,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Best var_smoothing
+Naive Bayes,0.9999,0.8691,0.429,0.4881,0.4567,0.742,0.05736152510448681

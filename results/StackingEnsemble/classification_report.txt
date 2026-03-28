@@ -1,0 +1,12 @@
+Base Learners: RF + XGB + LGBM
+Meta Learner: LogisticRegression(C=1.0, class_weight=balanced)
+Best threshold: 0.2145
+
+              precision    recall  f1-score   support
+
+      No (0)       0.97      0.92      0.94      7310
+     Yes (1)       0.55      0.81      0.66       928
+
+    accuracy                           0.90      8238
+   macro avg       0.76      0.86      0.80      8238
+weighted avg       0.93      0.90      0.91      8238

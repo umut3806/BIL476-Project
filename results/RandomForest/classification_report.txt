@@ -1,0 +1,11 @@
+Best params: {'clf__n_estimators': 1000, 'clf__min_samples_split': 20, 'clf__min_samples_leaf': 20, 'clf__max_features': 0.5, 'clf__max_depth': None, 'clf__bootstrap': False}
+Best threshold: 0.4375
+
+              precision    recall  f1-score   support
+
+      No (0)       0.98      0.91      0.94      7310
+     Yes (1)       0.53      0.83      0.65       928
+
+    accuracy                           0.90      8238
+   macro avg       0.75      0.87      0.79      8238
+weighted avg       0.93      0.90      0.91      8238
