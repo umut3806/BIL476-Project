@@ -211,10 +211,6 @@ done
 for %f in (decision_tree.py kNN.py naive_bayes.py random_forest.py XGBoost.py lightgbm_model.py stacking_ensemble.py) do python %f
 ```
 
-> **Runtime note:** `GridSearchCV`-based scripts (Decision Tree, k-NN, Naive Bayes) complete in minutes.
-> `RandomizedSearchCV`-based scripts (Random Forest, XGBoost, LightGBM) and the Stacking Ensemble may take 10–30+ minutes depending on hardware.
-> All scripts use `n_jobs=-1` to leverage all available CPU cores.
-
 ---
 
 ## Output Files
