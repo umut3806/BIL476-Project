@@ -1,0 +1,2 @@
+Model,Best Threshold,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Best n_estimators,Best max_depth,Best min_samples_leaf,Best max_features,Best min_samples_split,Best bootstrap
+Random Forest,0.4375,0.8984,0.5312,0.8341,0.6491,0.9453,1000,,20,0.5,20,False

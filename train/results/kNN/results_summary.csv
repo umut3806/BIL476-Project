@@ -1,0 +1,2 @@
+Model,Best Threshold,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Best k,Best p,Best weights
+k-NN (k=31),0.4435,0.8655,0.4327,0.6239,0.511,0.8741,31,1,distance

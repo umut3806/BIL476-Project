@@ -1,0 +1,2 @@
+Model,Best Threshold,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Best max_depth,Best min_samples_leaf,Best min_samples_split,Best criterion,Best max_leaf_nodes
+Decision Tree,0.4965,0.8767,0.4738,0.8567,0.6101,0.9258,15,10,5,entropy,100
